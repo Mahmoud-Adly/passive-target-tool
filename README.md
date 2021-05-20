@@ -9,10 +9,10 @@ PT is small tools but is helpful
 --------------------------------------------------------------------------------------
 # Instraction 
 ## help 
-  ####### python3 ./pt.py -h 
-  ####### python3 ./pt.py --help 
+ - python3 ./pt.py -h 
+ - python3 ./pt.py --help 
 
 ## run tool
-  ####### python3 ./pt.py -t target
-  ####### python3 ./pt.py --target=target
+ - python3 ./pt.py -t target
+ - python3 ./pt.py --target=target
   
