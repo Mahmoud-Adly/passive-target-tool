@@ -4,11 +4,11 @@ Passive information ( PT )gathering refers to gathering as much information as p
 # Instraction 
   using on terminal
   
-  # help 
+  -> help 
   python3 ./pt.py -h 
   python3 ./pt.py --help 
   
-  # run tool
+  -> run tool
    python3 ./pt.py -t target
    python3 ./pt.py --target=target
   
