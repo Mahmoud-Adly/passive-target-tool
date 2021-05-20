@@ -1,0 +1,13 @@
+https://www.crunchbase.com/discover/organization.companies/
+https://searchdns.netcraft.com/?restriction=site+contains&host=
+http://web.archive.org/web/*/
+https://www.shodan.io/search?query=
+https://whois.domaintools.com/
+https://bgp.he.net/dns/
+https://censys.io/ipv4?q=
+https://securityheaders.com/?q=
+https://www.social-searcher.com/social-buzz/?q5=
+https://hunter.io/search/
+https://crt.sh/?q=
+https://builtwith.com/
+https://www.robtex.com/dns-lookup/
