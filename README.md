@@ -16,5 +16,4 @@ PT is smalling tool but is helpful and open source
  - python3 ./pt.py -t target
  - python3 ./pt.py --target=target
   
-# Developed
-#### Mahmoud Adly
+###### The tool was created by Mahmoud Adly
