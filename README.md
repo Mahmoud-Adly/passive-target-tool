@@ -1,5 +1,5 @@
-# passive-target-tool
-Passive information ( PT ) gathering refers to gathering as much information as possible without establishing contact between the pen tester (yourself) and the target about which you are collecting information.
+# passive-target-tool ( PT )
+Passive information gathering refers to gathering as much information as possible without establishing contact between the pen tester (yourself) and the target about which you are collecting information.
 
 PT is small tools but is helpful and open source
 
