@@ -31,8 +31,8 @@ def get_search(target):
     print("\n Result <" + target + "> \n")
     print("Website" + " " * 26 + " Url")
     print("-" * 8 + " " * 26 + "-" * 5)
-    with open(r"../../../lists/websiteLink.txt", 'r') as link:
-        with open(r"../../../lists/websiteName.txt", 'r') as name:
+    with open(r"../../passive-target-too/lists/websiteLink.txt", 'r') as link: 
+        with open(r"../../passive-target-too/lists/websiteName.txt", 'r') as name:
             count = 0
             while True:
                 count += 1
